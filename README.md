@@ -1,6 +1,6 @@
 # Simple Flux Counter
 
-**[Live Demo](https://DucZuyVuTM.github.io/project_Frontend-Flux-Architecture/)**
+**[Live Demo](https://DucZuyVuTM.github.io/Frontend_Flux-architecture/)**
 
 A minimal React application implementing the **Flux architecture** manually (without the `flux` library). The project features a counter with increment, decrement and reset functionality, built using **React 18**, **TypeScript**, and **Vite**.
 
