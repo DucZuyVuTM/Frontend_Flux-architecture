@@ -54,7 +54,7 @@ Frontend_Flux-architecture
 ## Installation
 1. **Clone the repository** (after it's pushed to GitHub):
     ```bash
-    git clone https://github.com/<your-username>/Frontend_Flux-architecture.git
+    git clone https://github.com/DucZuyVuTM/Frontend_Flux-architecture.git
     cd Frontend_Flux-architecture
     ```
 
